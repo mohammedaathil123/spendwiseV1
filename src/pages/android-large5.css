@@ -1,0 +1,76 @@
+.bg7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #222227;
+  width: 360px;
+  height: 40px;
+}
+.vector-icon7 {
+  position: relative;
+  border-radius: 0.33px;
+  width: 8.5px;
+  height: 10.1px;
+}
+.rectangle7,
+.union-icon7 {
+  position: relative;
+  width: 9.8px;
+  height: 9.8px;
+}
+.rectangle7 {
+  border-radius: 0.65px;
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 8.2px;
+  height: 8.2px;
+}
+.vector-parent4 {
+  position: absolute;
+  top: 10.3px;
+  left: 60.5px;
+  width: 231.1px;
+  height: 19.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.android-status-bar-dark7,
+.bg-parent4 {
+  position: absolute;
+  top: 740px;
+  left: 0;
+  width: 360px;
+  height: 40px;
+}
+.android-status-bar-dark7 {
+  top: 0;
+}
+.by-continuing-you,
+.terms {
+  font-family: Urbanist;
+}
+.terms {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.by-continuing-you-agree-to-ou {
+  margin: 0;
+}
+.by-continuing-you-container {
+  position: absolute;
+  top: 688px;
+  left: calc(50% - 144px);
+  line-height: 18px;
+}
+.android-large-5 {
+  position: relative;
+  background-color: #222227;
+  width: 100%;
+  height: 780px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+  font-family: Urbanist;
+}

@@ -1,0 +1,158 @@
+.arrow-back-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  opacity: 0.75;
+}
+.verify-otp {
+  position: relative;
+  line-height: 40px;
+  font-weight: 800;
+}
+.xxxx8192 {
+  color: #90ef92;
+}
+.verification-code-sent-container {
+  position: relative;
+  font-size: 20px;
+  color: #c9c9c9;
+}
+.verify-otp-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.div2 {
+  position: relative;
+  line-height: 125%;
+  font-weight: 500;
+}
+.wrapper {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame-child8 {
+  position: relative;
+  width: 44px;
+  height: 2px;
+}
+.frame-parent7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame-child13 {
+  position: relative;
+  background-color: #90ef92;
+  width: 1px;
+  height: 31px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent6,
+.parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 2px;
+}
+.frame-parent6 {
+  width: 328px;
+  height: 56px;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 8px;
+}
+.resend-otp,
+.time-remaining {
+  position: relative;
+}
+.resend-otp {
+  text-decoration: underline;
+  color: rgba(144, 239, 146, 0.3);
+}
+.time-remaining-0025-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 12px;
+  text-align: left;
+  font-size: 12px;
+  color: #c9c9c9;
+}
+.frame-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.label-text6 {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.button-dark4,
+.state-layer6 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.state-layer6 {
+  flex-direction: row;
+  padding: 10px 24px;
+}
+.button-dark4 {
+  border-radius: 8px;
+  background-color: #90ef92;
+  height: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+  font-size: 14px;
+  color: #222227;
+}
+.frame-parent4 {
+  align-self: stretch;
+  gap: 24px;
+  text-align: center;
+}
+.arrow-back-group,
+.frame-parent3,
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  width: 328px;
+  gap: 48px;
+}
+.arrow-back-group {
+  position: absolute;
+  top: 56px;
+  left: calc(50% - 164px);
+  gap: 16px;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Urbanist;
+}

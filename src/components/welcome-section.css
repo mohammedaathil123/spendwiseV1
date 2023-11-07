@@ -1,0 +1,97 @@
+.arrow-back-icon2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  opacity: 0.75;
+}
+.wise1 {
+  color: #90ef92;
+}
+.welcome-to-wise-container {
+  position: relative;
+  line-height: 40px;
+  font-weight: 800;
+}
+.how-sms-consent {
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+  color: #c9c9c9;
+}
+.frame-wrapper3,
+.welcome-to-wise-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.welcome-to-wise-parent {
+  align-self: stretch;
+  gap: 4px;
+}
+.frame-wrapper3 {
+  width: 328px;
+}
+.email-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.track-expenses {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+}
+.email-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.sms-consent-gives {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+  color: #c9c9c9;
+}
+.frame-parent15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 4px;
+}
+.arrow-back-container,
+.frame-parent13,
+.frame-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent14 {
+  width: 328px;
+  gap: 24px;
+  font-size: 16px;
+}
+.arrow-back-container,
+.frame-parent13 {
+  gap: 48px;
+}
+.arrow-back-container {
+  position: absolute;
+  top: 56px;
+  left: calc(50% - 164px);
+  gap: 16px;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Urbanist;
+}

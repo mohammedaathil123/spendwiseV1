@@ -1,0 +1,51 @@
+.arrow-back-icon4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  opacity: 0.75;
+}
+.signup {
+  position: relative;
+  line-height: 40px;
+  font-weight: 800;
+}
+.and-start-spending {
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+  color: #90ef92;
+}
+.signup-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.text-field-container {
+  align-self: stretch;
+}
+.arrow-back-parent2,
+.frame-parent21,
+.text-field-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent21 {
+  width: 328px;
+  gap: 48px;
+}
+.arrow-back-parent2 {
+  position: absolute;
+  top: 56px;
+  left: calc(50% - 164px);
+  gap: 16px;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Urbanist;
+}

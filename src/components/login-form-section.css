@@ -1,0 +1,49 @@
+.arrow-back-icon6 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  opacity: 0.75;
+}
+.signup1 {
+  color: #90ef92;
+}
+.loginsignup {
+  position: relative;
+  line-height: 40px;
+  font-weight: 800;
+}
+.and-start-spending2 {
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+  color: #90ef92;
+}
+.loginsignup-parent {
+  gap: 4px;
+}
+.arrow-back-parent4,
+.frame-parent23,
+.loginsignup-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent23 {
+  align-self: stretch;
+  gap: 48px;
+}
+.arrow-back-parent4 {
+  position: absolute;
+  top: 56px;
+  left: 16px;
+  width: 328px;
+  gap: 16px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Urbanist;
+}

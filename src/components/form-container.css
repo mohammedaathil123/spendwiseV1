@@ -1,0 +1,82 @@
+.line-div {
+  position: absolute;
+  top: 35.5px;
+  left: 9.5px;
+  border-top: 1px solid #fff;
+  box-sizing: border-box;
+  width: 302px;
+  height: 1px;
+}
+.div,
+.swiggy,
+.today-302pm {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  line-height: 20px;
+  display: inline-block;
+  width: 126px;
+  height: 19px;
+}
+.div,
+.today-302pm {
+  left: 214px;
+}
+.div {
+  top: 60px;
+  left: 55px;
+  font-size: 40px;
+  width: 84px;
+  height: 36px;
+}
+.frame-child4 {
+  position: absolute;
+  top: 69.5px;
+  left: 9.5px;
+  border-top: 1px solid #f8f4f4;
+  box-sizing: border-box;
+  width: 15px;
+  height: 1px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 60px;
+  left: 180px;
+  border-radius: 5px;
+  background-color: #d9d9d9;
+  width: 131px;
+  height: 24px;
+}
+.down-arrow-1-icon {
+  position: absolute;
+  top: 65px;
+  left: 287px;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+}
+.food-and-drinks {
+  position: absolute;
+  top: 61px;
+  left: 191px;
+  font-size: 13px;
+  line-height: 20px;
+  color: #000;
+  display: inline-block;
+  width: 126px;
+  height: 19px;
+}
+.line-parent {
+  position: absolute;
+  top: 220px;
+  left: 18px;
+  border-radius: 20px;
+  background-color: #3b3f42;
+  width: 322px;
+  height: 99px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #fff;
+  font-family: Urbanist;
+}

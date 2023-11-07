@@ -1,0 +1,123 @@
+.arrow-back-icon3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  opacity: 0.75;
+}
+.verify-otp1 {
+  position: relative;
+  line-height: 40px;
+  font-weight: 800;
+}
+.xxxx81921 {
+  color: #90ef92;
+}
+.verification-code-sent-container1 {
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+  color: #c9c9c9;
+}
+.verify-otp-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.frame-child15 {
+  position: relative;
+  width: 44px;
+  height: 2px;
+}
+.vector-parent6 {
+  width: 328px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 8px;
+}
+.resend-otp1,
+.time-remaining1 {
+  position: relative;
+}
+.resend-otp1 {
+  text-decoration: underline;
+  color: rgba(144, 239, 146, 0.3);
+}
+.time-remaining-0125-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 12px;
+}
+.frame-parent20 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.label-text7 {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.button-dark5,
+.state-layer7 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.state-layer7 {
+  flex-direction: row;
+  padding: 10px 24px;
+}
+.button-dark5 {
+  border-radius: 8px;
+  background-color: rgba(144, 239, 146, 0.3);
+  height: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+  text-align: center;
+  font-size: 14px;
+  color: #222227;
+}
+.frame-parent19 {
+  align-self: stretch;
+  gap: 24px;
+  font-size: 12px;
+  color: #c9c9c9;
+}
+.arrow-back-parent1,
+.frame-parent18,
+.frame-parent19 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent18 {
+  width: 328px;
+  gap: 48px;
+}
+.arrow-back-parent1 {
+  position: absolute;
+  top: 56px;
+  left: calc(50% - 164px);
+  gap: 16px;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Urbanist;
+}

@@ -1,0 +1,26 @@
+.icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.state-layer {
+  flex-direction: row;
+  padding: 8px;
+}
+.container,
+.state-layer,
+.stylestandard-stateenabled {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  border-radius: 100px;
+  overflow: hidden;
+  flex-direction: row;
+}
+.stylestandard-stateenabled {
+  width: 48px;
+  height: 48px;
+  flex-direction: column;
+}

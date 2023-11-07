@@ -1,0 +1,90 @@
+.frame-child5 {
+  position: absolute;
+  top: 35.5px;
+  left: 9.5px;
+  border-top: 1px solid #fff;
+  box-sizing: border-box;
+  width: 302px;
+  height: 1px;
+}
+.div1,
+.myntra,
+.today-700pm {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  line-height: 20px;
+  display: inline-block;
+  width: 126px;
+  height: 19px;
+}
+.div1,
+.today-700pm {
+  left: 214px;
+}
+.div1 {
+  top: 60px;
+  left: 55px;
+  font-size: 40px;
+  width: 105px;
+  height: 36px;
+}
+.frame-child6 {
+  position: absolute;
+  top: 69.5px;
+  left: 9.5px;
+  border-top: 1px solid #f8f4f4;
+  box-sizing: border-box;
+  width: 15px;
+  height: 1px;
+}
+.frame-child7 {
+  position: absolute;
+  top: 60px;
+  left: 180px;
+  border-radius: 5px;
+  background-color: #d9d9d9;
+  width: 131px;
+  height: 24px;
+}
+.down-arrow-1-icon1 {
+  position: absolute;
+  top: 65px;
+  left: 287px;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+}
+.shopping {
+  position: absolute;
+  top: 61px;
+  left: 214px;
+  font-size: 13px;
+  line-height: 20px;
+  color: #000;
+  display: inline-block;
+  width: 126px;
+  height: 19px;
+}
+.mask-group-icon1 {
+  position: absolute;
+  top: 57px;
+  left: 28px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.line-group {
+  position: absolute;
+  top: 343px;
+  left: 18px;
+  border-radius: 20px;
+  background-color: #3b3f42;
+  width: 322px;
+  height: 99px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #fff;
+  font-family: Urbanist;
+}

@@ -1,0 +1,121 @@
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #222227;
+  width: 360px;
+  height: 40px;
+}
+.vector-icon {
+  position: relative;
+  border-radius: 0.33px;
+  width: 8.5px;
+  height: 10.1px;
+}
+.rectangle,
+.union-icon {
+  position: relative;
+  width: 9.8px;
+  height: 9.8px;
+}
+.rectangle {
+  border-radius: 0.65px;
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 8.2px;
+  height: 8.2px;
+}
+.vector-parent {
+  position: absolute;
+  top: 10.3px;
+  left: 60.5px;
+  width: 231.1px;
+  height: 19.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.bg-parent {
+  position: absolute;
+  top: 740px;
+  left: 0;
+  width: 360px;
+  height: 40px;
+}
+.arrow-back-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  opacity: 0.75;
+}
+.checking-your-cash,
+.money-profile {
+  align-self: stretch;
+  position: relative;
+}
+.money-profile {
+  line-height: 40px;
+  font-weight: 800;
+}
+.checking-your-cash {
+  font-size: 20px;
+  line-height: 28px;
+  color: #c9c9c9;
+}
+.money-profile-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.frame-container,
+.money-profile-parent {
+  align-self: stretch;
+  align-items: center;
+}
+.arrow-back-parent,
+.frame-container,
+.frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-wrapper {
+  width: 328px;
+  align-items: center;
+}
+.arrow-back-parent {
+  position: absolute;
+  top: 74px;
+  left: calc(50% - 165px);
+  align-items: flex-start;
+  gap: 16px;
+}
+.android-status-bar-dark,
+.mask-group-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 40px;
+}
+.mask-group-icon {
+  top: 278px;
+  left: 46px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.android-large-12 {
+  position: relative;
+  background-color: #222227;
+  width: 100%;
+  height: 780px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Urbanist;
+}

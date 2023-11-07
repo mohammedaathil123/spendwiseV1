@@ -1,0 +1,100 @@
+.bg5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #222227;
+  width: 360px;
+  height: 40px;
+}
+.vector-icon5 {
+  position: relative;
+  border-radius: 0.33px;
+  width: 8.5px;
+  height: 10.1px;
+}
+.rectangle5,
+.union-icon5 {
+  position: relative;
+  width: 9.8px;
+  height: 9.8px;
+}
+.rectangle5 {
+  border-radius: 0.65px;
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 8.2px;
+  height: 8.2px;
+}
+.vector-parent2 {
+  position: absolute;
+  top: 10.3px;
+  left: 60.5px;
+  width: 231.1px;
+  height: 19.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.bg-parent2 {
+  position: absolute;
+  top: 740px;
+  left: 0;
+  width: 360px;
+  height: 40px;
+}
+.text-field-wrapper {
+  position: absolute;
+  top: 282px;
+  left: 16px;
+  width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.label-text4 {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.button-dark2,
+.state-layer4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.state-layer4 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 10px 24px;
+  cursor: pointer;
+}
+.button-dark2 {
+  position: absolute;
+  top: 361px;
+  left: 16px;
+  border-radius: 8px;
+  background-color: #90ef92;
+  width: 328px;
+  height: 48px;
+  overflow: hidden;
+  flex-direction: column;
+}
+.android-status-bar-dark5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 40px;
+}
+.android-large-14 {
+  position: relative;
+  background-color: #222227;
+  width: 100%;
+  height: 780px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 14px;
+  color: #222227;
+  font-family: Urbanist;
+}
